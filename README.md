@@ -1,3 +1,5 @@
+##functions 
+
 makeVector <- function(x = numeric()) {
         m <- NULL
         set <- function(y) {
